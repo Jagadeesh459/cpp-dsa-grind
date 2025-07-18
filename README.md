@@ -5,10 +5,12 @@
 ## 📅 Daily Progress
 
 - ✅ **Day 1**:
-  - 📚 Basics: `cout`, `cin`, variables, data types
+  - 📚 topics learned:
+   - `cout`, `cin`, variables, data types
+   - coditional statements and loops
   - 📂 Folders:
-    - 🧑‍🏫 `lecture/` – Done some example programs
-    - 💻 `practice/` – Basic I/O problems
+    - 🧑‍🏫 `lecture/` – Done some example programs and practice problems given in lecture
+    - 💻 `practice/` – Basic I/O problems and problems on if else and loops ( in hackerrank )
 
 
 ## 📚 Resources
