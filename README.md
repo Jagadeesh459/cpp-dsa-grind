@@ -2,16 +2,29 @@
 
 🚀 My C++ + DSA journey using Apna College playlist and practice on HackerRank & LeetCode.
 
-## 📅 Daily Progress
+## 📅 Progress Tracker
 
-- ✅ **Day 1**:
-  - 📚 topics learned:
-   - `cout`, `cin`, variables, data types
-   - coditional statements and loops
-  - 📂 Folders:
-    - 🧑‍🏫 `lecture/` – Done some example programs and practice problems given in lecture
-    - 💻 `practice/` – Basic I/O problems and problems on if else and loops ( in hackerrank )
+| Day | Topics Covered | Status | Notes |
+|-----|----------------|--------|-------|
+|  1  | Basic I/O, Variables, Data Types, Conditionals & Loops | ✅ Completed | Practiced on HackerRank |
+| 2&3 | Patterns | ✅ Completed | Implemented multiple pattern problems |
+|  4  | Functions | ✅ Completed | Covered theory + lecture HW problems |
 
+
+## 📂 Folder Structure
+
+- `lectures/` – Code from lecture videos.
+- `practice/` – Practice problems & assignments.
+- `README.md` – You're reading it :)
+
+## 🔗 Links
+
+- 📂 [My GitHub Repo](https://github.com/Jagadeesh459/cpp-dsa-grind)
+- 🎥 [Apna College Playlist](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
+
+---
+
+Stay tuned for more updates. Going all in till I master DSA. 💪🔥
 
 ## 📚 Resources
 - 🎥 [Apna College C++ Playlist](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
