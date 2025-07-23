@@ -9,6 +9,7 @@
 |  1  | Basic I/O, Variables, Data Types, Conditionals & Loops | ✅ Completed | Practiced on HackerRank |
 | 2&3 | Patterns | ✅ Completed | Implemented multiple pattern problems |
 |  4  | Functions | ✅ Completed | Covered theory + lecture HW problems |
+|  5  | Binary Number System | 🕒 Lecture Done | Need to solve practice problems |
 
 
 ## 📂 Folder Structure
