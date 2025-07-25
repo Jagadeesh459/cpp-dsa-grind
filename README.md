@@ -4,13 +4,6 @@
 
 ## 📅 Progress Tracker
 
-| Day | Topics Covered | Status | Notes |
-|-----|----------------|--------|-------|
-| 1   | Basic I/O, Variables, Data Types, Conditionals & Loops | ✅ Completed | Practiced on HackerRank |
-| 2   | Patterns – Part 1 | ✅ Completed | Basic star patterns |
-| 3   | Patterns – Part 2 | ✅ Completed | Advanced patterns (pyramid, number) |
-| 4   | Functions | ✅ Completed | Covered theory + lecture HW problems |
-| 5   | Binary Number System | 🕒 Lecture Done | Need to solve practice problems |
 | Day | Topics Covered                                               | Status         | Notes                                 |
 |-----|--------------------------------------------------------------|----------------|----------------------------------------|
 | 1   | Basic I/O, Variables, Data Types, Conditionals & Loops       | ✅ Completed    | Practiced on HackerRank                |
