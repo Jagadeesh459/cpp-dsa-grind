@@ -1,4 +1,4 @@
-# cpp-dsa-grind 💻🔥
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/afbe3057-b476-4612-b0eb-8ca4a1b79416" /># cpp-dsa-grind 💻🔥
 
 🚀 My C++ + DSA journey using Apna College playlist and practice on HackerRank & LeetCode.
 
@@ -11,7 +11,7 @@
 | 3   | Patterns – Part 2                                            | ✅ Completed    | Advanced patterns (pyramid, number)    |
 | 4   | Functions                                                    | ✅ Completed    | Covered theory + lecture HW problems   |
 | 5   | Binary Number System                                         | ✅ Completed    | Lecture + Problems solved              |
-| 6   | Bitwise Operators                                            | ✅ Completed    | Currently solving practice problems    |
+| 6   | Bitwise Operators                                            | ✅ Completed    | All lecture + HW problems done         |
 ## 📂 Folder Structure
 
 - `lectures/` – Code from lecture videos.
@@ -40,6 +40,7 @@ To master C++ and DSA from scratch, solve 300+ problems, and crack top placement
 
 - Guided and supported by ChatGPT 💬 a.k.a my coding buddy 👨‍💻
 
-## 🔥 Motivation
+## 🔥 Let's Keep Grinding
 
-This is my accountability repo. I post progress every day to stay consistent and build a strong resume.
+I'm committed to showing up daily and documenting progress.  
+Big dreams need big discipline. Let's do this. 💪
