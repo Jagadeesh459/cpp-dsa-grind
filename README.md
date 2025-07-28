@@ -1,5 +1,3 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/afbe3057-b476-4612-b0eb-8ca4a1b79416" /># cpp-dsa-grind 💻🔥
-
 🚀 My C++ + DSA journey using Apna College playlist and practice on HackerRank & LeetCode.
 
 ## 📅 Progress Tracker
