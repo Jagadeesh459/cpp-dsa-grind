@@ -10,6 +10,8 @@
 | 4   | Functions                                                    | ✅ Completed    | Covered theory + lecture HW problems   |
 | 5   | Binary Number System                                         | ✅ Completed    | Lecture + Problems solved              |
 | 6   | Bitwise Operators                                            | ✅ Completed    | All lecture + HW problems done         |
+| 7   | Arrays                                                       | ✅ Completed    | 2 practice problems remaining          |
+
 ## 📂 Folder Structure
 
 - `lectures/` – Code from lecture videos.
