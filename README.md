@@ -1,11 +1,11 @@
 # cpp-dsa-grind 💻🔥  
-🚀 My C++ + DSA journey using Apna College playlist and practice on HackerRank & LeetCode.
+🚀 My C++ + DSA journey using Apna College NEW C++ + DSA playlist and practice on HackerRank & LeetCode.
 
 ---
 
 ## 📅 Progress Tracker
 
-| Day | Topics Covered                                                      | Status       | Notes                                                                 |
+| #   | Topics Covered                                                      | Status       | Notes                                                                 |
 |-----|----------------------------------------------------------------------|--------------|------------------------------------------------------------------------|
 | 1   | Basic I/O, Variables, Data Types, Conditionals & Loops              | ✅ Completed | Practiced on HackerRank                                               |
 | 2   | Patterns – Part 1                                                   | ✅ Completed | Basic star patterns                                                   |
@@ -14,7 +14,8 @@
 | 5   | Binary Number System                                                | ✅ Completed | Lecture + Problems solved                                             |
 | 6   | Bitwise Operators                                                   | ✅ Completed | All lecture + HW problems done                                        |
 | 7   | Arrays                                                              | ✅ Completed | All lecture and practice programs done                                |
-| 8   | Comeback Day – Resume after College Contest & CodeChef Milestone    | 🔄 In Progress | Completed 500-rated CodeChef problems ✅ + College Coding Contest 🎯|
+| 8   | Took a break for solving codechef problems and for my clg coding contest  | ✅ Completed | Completed 8 lectures in Apna College NEW C++ + DSA series 🔥          |
+| 9   | vectors                                              | 🔄 In Progress | Starting fresh from Lecture 9 today 🚀                                |
 
 ---
 
@@ -32,7 +33,7 @@
 ---
 
 ## 📚 Resources  
-- 🎥 Apna College C++ Playlist  
+- 🎥 Apna College NEW C++ + DSA Playlist (2024–25)  
 - 👨‍💻 HackerRank - C++ Practice  
 - 👨‍💻 LeetCode (for DSA later)
 
@@ -49,5 +50,5 @@ Guided and supported by **ChatGPT 💬** a.k.a my coding buddy 👨‍💻
 ---
 
 ## 🔥 Let's Keep Grinding  
-I'm committed to showing up daily and documenting progress.  
+I'm committed to showing up regularly and documenting progress.  
 **Big dreams need big discipline.** Let's do this. 💪
