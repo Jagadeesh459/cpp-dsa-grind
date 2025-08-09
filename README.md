@@ -27,8 +27,8 @@
 ---
 
 ## 🔗 Links  
-- 📂 [My GitHub Repo](#)  
-- 🎥 [Apna College Playlist](#)
+- 📂 [My GitHub Repo]()  
+- 🎥 [Apna College Playlist](https://youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt&si=MuCR2Lv0WB4SA-4Y)
 
 ---
 
