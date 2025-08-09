@@ -14,15 +14,18 @@
 | 5   | Binary Number System                                                | ✅ Completed | Lecture + Problems solved                                             |
 | 6   | Bitwise Operators                                                   | ✅ Completed | All lecture + HW problems done                                        |
 | 7   | Arrays                                                              | ✅ Completed | All lecture and practice programs done                                |
-| 8   | Took a break for solving codechef problems and for my clg coding contest  | ✅ Completed | Completed 8 lectures in Apna College NEW C++ + DSA series 🔥          |
-| 9   | vectors                                              | 🔄 In Progress | Starting fresh from Lecture 9 today 🚀                                |
+| 8   | Took a break for solving CodeChef problems and for my college coding contest  | ✅ Completed | Completed 8 lectures in Apna College NEW C++ + DSA series 🔥          |
+| 9   | Vectors                                              | 🔄 In Progress | Starting fresh from Lecture 9 today 🚀                                |
 
 ---
 
-## 📂 Folder Structure  
-- `lectures/` – Code from lecture videos.  
-- `practice/` – Practice problems & assignments.  
-- `README.md` – You're reading it :)
+## Repository Structure
+
+| Folder | Description |
+|--------|-------------|
+| [`lectures/`](./lectures) | Lecture notes and corresponding code |
+| [`practice/`](./practice) | Practice problems from HackerRank and others |
+| [`leetcode_solutions/`](./leetcode_solutions) | My LeetCode problem-solving journey (coming soon) |
 
 ---
 
