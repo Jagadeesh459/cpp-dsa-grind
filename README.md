@@ -15,7 +15,7 @@
 | 6   | Bitwise Operators                                                   | ✅ Completed | All lecture + HW problems done                                        |
 | 7   | Arrays                                                              | ✅ Completed | All lecture and practice programs done                                |
 | 8   | Took a break for solving CodeChef problems and for my college coding contest  | ✅ Completed | Completed 8 lectures in Apna College NEW C++ + DSA series 🔥          |
-| 9   | Vectors                                              | 🔄 In Progress | Starting fresh from Lecture 9 today 🚀                                |
+| 9   | Vectors                                              | ✅ Completed | solved all lecture and hw codes and solved 1st cpp problem on leetcode                               |
 
 ---
 
