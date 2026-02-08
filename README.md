@@ -31,7 +31,7 @@ No excuses. Just pure, consistent grind. 🏆
 
 ## 🎯 The Ultimate Goal
 ✅ Be the **best in my batch**  
-✅ Land **25+ LPA package**  
+✅ Land **High package**  
 ✅ Build **problem-solving skills for life**
 
 ---
