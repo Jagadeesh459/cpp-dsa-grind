@@ -1,39 +1,25 @@
-# 💻🔥 cpp-dsa-grind 🚀  
+# C++ and DSA Practice Repository
 
-This repo is my **war room** for mastering C++ and DSA.  
-Every commit is one step closer to cracking **top-tier placements** and hitting **25+ LPA**.  
-No excuses. Just pure, consistent grind. 🏆  
+This repository documents my learning journey in C++ and Data Structures & Algorithms,
+following structured courses and problem-solving sheets.
 
----
+## Learning Phases
 
-## 🏁 Phases of the Journey
+### Phase 1 – Apna College
+- C++ fundamentals and beginner-level DSA
+- Based on Apna College (New Playlist 2024–25)
+- Topics covered: Basics, Arrays, Vectors, Homework problems, and LeetCode practice
 
-| Phase | Description | Status | Link |
-|-------|-------------|--------|------|
-| **Phase 1 – Apna College** | C++ basics + beginner DSA from **Apna College NEW Playlist (2024-25)** | ✅ Completed up to Arrays, Vectors, HW problems, and LeetCode practice | [📂 Open Phase 1](./Phase-1-ApnaCollege) |
-| **Phase 2 – Striver DSA** | Full **Striver’s 180 DSA Sheet** with detailed notes & solutions | 🔄 Starting Soon | [📂 Open Phase 2](./Phase-2-Striver-DSA) |
+📂 Folder: Phase-1-ApnaCollege
 
----
+### Phase 2 – Striver A2Z DSA Sheet
+- Systematic DSA problem-solving using Striver’s A2Z sheet
+- Topic-wise implementations and solutions in C++
 
-## ⚙️ Tech & Tools
-- **Languages:** C++ (STL, OOP, DSA)
-- **Platforms:** HackerRank, LeetCode
-- **Tools:** Git, GitHub, VS Code
+📂 Folder: Phase-2-Striver-DSA
 
----
+## Tech Stack
+- Language: C++
+- Concepts: STL, OOP, DSA
+- Platforms: LeetCode, HackerRank
 
-## 📅 The Grind Rules
-- **Code. Commit. Repeat.** No skipped days.
-- Quality over quantity — only meaningful progress gets committed.
-- Each phase ends with **review + revision** before moving on.
-
----
-
-## 🎯 The Ultimate Goal
-✅ Be the **best in my batch**  
-✅ Land **High package**  
-✅ Build **problem-solving skills for life**
-
----
-
-📌 _This is not just a repo — it’s proof of my dedication, hard work, and growth._
