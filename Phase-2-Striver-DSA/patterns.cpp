@@ -1,6 +1,209 @@
 #include<iostream>
 #include<iomanip>
 using namespace std;
+
+/*
+        Pattern 1
+
+            *****
+            *****
+            *****
+            *****
+            *****
+            
+        Pattern 2
+            
+            *
+            **
+            ***
+            ****
+            *****
+            
+        Pattern 3
+            
+            1
+            12
+            123
+            1234
+            12345
+            
+        Pattern 4
+            
+            1
+            22
+            333
+            4444
+            55555
+            
+        Pattern 5
+            
+            *****
+            ****
+            ***
+            **
+            *
+            
+        Pattern 6
+            
+            12345
+            1234
+            123
+            12
+            1
+            
+        Pattern 7
+            
+            *
+            ***
+            *****
+            *******
+            *********
+            
+        Pattern 8
+            
+            *********
+            *******
+            *****
+            ***
+            *
+            
+        Pattern 9
+            
+            *
+            ***
+            *****
+            *******
+            *********
+            *********
+            *******
+            *****
+            ***
+            *
+            
+        Pattern 10
+            
+            
+            *
+            **
+            ***
+            ****
+            ****
+            ***
+            **
+            *
+            
+        Pattern 11
+            
+            1
+            0 1
+            1 0 1
+            0 1 0 1
+            1 0 1 0 1
+            
+        Pattern 12
+            
+            1        1
+            12      21
+            123    321
+            1234  4321
+            1234554321
+            
+        Pattern 13
+            
+            1
+            23
+            456
+            78910
+            1112131415
+            
+        Pattern 14
+            
+            A
+            AB
+            ABC
+            ABCD
+            ABCDE
+            
+        Pattern 15
+            
+            ABCDE
+            ABCD
+            ABC
+            AB
+            A
+            
+        Pattern 16
+            
+            A
+            BB
+            CCC
+            DDDD
+            EEEEE
+            
+        Pattern 17
+            
+            A
+            ABA
+            ABCBA
+            ABCDCBA
+            ABCDEDCBA
+            
+        Pattern 18
+            
+            E
+            DE
+            CDE
+            BCDE
+            ABCDE
+            
+        Pattern 19
+            
+            **********
+            ****  ****
+            ***    ***
+            **      **
+            *        *
+            *        *
+            **      **
+            ***    ***
+            ****  ****
+            **********
+            
+        Pattern 20
+            
+            *        *
+            **      **
+            ***    ***
+            ****  ****
+            **********
+            ****  ****
+            ***    ***
+            **      **
+            *        *
+            
+        Pattern 21
+            
+            *****
+            *   
+            *   *
+            *   *
+            *****
+            
+        Pattern 22
+            
+            5  5  5  5  5  5  5  5  5
+            5  4  4  4  4  4  4  4  5
+            5  4  3  3  3  3  3  4  5
+            5  4  3  2  2  2  3  4  5
+            5  4  3  2  1  2  3  4  5
+            5  4  3  2  2  2  3  4  5
+            5  4  3  3  3  3  3  4  5
+            5  4  4  4  4  4  4  4  5
+            5  5  5  5  5  5  5  5  5
+
+
+*/
+
 void print1(int n)
 {
     for(int i=0;i<n;i++)
@@ -315,17 +518,17 @@ int main()
     print8(n);
     print9(n);
     print10(n);
-    // print11(n);
-    // print12(n);
-    // print13(n);
-    // print14(n);
-    // print15(n);
-    // print16(n);
-    // print17(n);
-    // print18(n);
-    // print19(n);
-    // print20(n);
-    // print21(n);
-    // print22(n);
+    print11(n);
+    print12(n);
+    print13(n);
+    print14(n);
+    print15(n);
+    print16(n);
+    print17(n);
+    print18(n);
+    print19(n);
+    print20(n);
+    print21(n);
+    print22(n);
     return 0;
 }
